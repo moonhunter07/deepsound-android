@@ -1,0 +1,6 @@
+{
+  "name": "DeepSound DSP - Galaxy Buds4 Pro Audio Engine",
+  "description": "Android-optimized DSP music player for Samsung Galaxy Buds4 Pro with deep sub-bass, stereo 3D width, vocal clarity, loudness booster, and anti-clipping limiter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
